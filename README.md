@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hello, my name is Joseph (he/him). I'm currently enrolled in Tech Elevator's Java course. I'm a novice who is looking forward to a career in development. I have two four year olds: a Bernedoodle named Barney, and a human boy named Patrick. I'm looking for help with pretty much everything at the moment. You can reach me at jtcozzens@gmail.com if you want to ask me questions about coding which I won't know, or we can just chat about post bop jazz. The journey is yours
 
 <!--
 **explosephc/explosephc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Joseph (he/him). I'm currently enrolled in Tech Elevator's Java course. I'm a novice who is looking forward to a career in development. I have two four year olds: a Bernedoodle named Barney, and a human boy named Patrick. I'm looking for help with pretty much everything at the moment. You can reach me at jtcozzens@gmail.com.
